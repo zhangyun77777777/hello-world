@@ -1,0 +1,2 @@
+# hello-world
+praise Lord
